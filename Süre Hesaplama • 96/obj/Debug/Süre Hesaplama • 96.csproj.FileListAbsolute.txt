@@ -1,0 +1,10 @@
+C:\Users\tenge\OneDrive\Masaüstü\halley\Süre Hesaplama • 96\Süre Hesaplama • 96\bin\Debug\Süre Hesaplama • 96.exe.config
+C:\Users\tenge\OneDrive\Masaüstü\halley\Süre Hesaplama • 96\Süre Hesaplama • 96\bin\Debug\Süre Hesaplama • 96.exe
+C:\Users\tenge\OneDrive\Masaüstü\halley\Süre Hesaplama • 96\Süre Hesaplama • 96\bin\Debug\Süre Hesaplama • 96.pdb
+C:\Users\tenge\OneDrive\Masaüstü\halley\Süre Hesaplama • 96\Süre Hesaplama • 96\obj\Debug\Süre Hesaplama • 96.csproj.AssemblyReference.cache
+C:\Users\tenge\OneDrive\Masaüstü\halley\Süre Hesaplama • 96\Süre Hesaplama • 96\obj\Debug\Süre_Hesaplama___96.Form1.resources
+C:\Users\tenge\OneDrive\Masaüstü\halley\Süre Hesaplama • 96\Süre Hesaplama • 96\obj\Debug\Süre_Hesaplama___96.Properties.Resources.resources
+C:\Users\tenge\OneDrive\Masaüstü\halley\Süre Hesaplama • 96\Süre Hesaplama • 96\obj\Debug\Süre Hesaplama • 96.csproj.GenerateResource.cache
+C:\Users\tenge\OneDrive\Masaüstü\halley\Süre Hesaplama • 96\Süre Hesaplama • 96\obj\Debug\Süre Hesaplama • 96.csproj.CoreCompileInputs.cache
+C:\Users\tenge\OneDrive\Masaüstü\halley\Süre Hesaplama • 96\Süre Hesaplama • 96\obj\Debug\Süre Hesaplama • 96.exe
+C:\Users\tenge\OneDrive\Masaüstü\halley\Süre Hesaplama • 96\Süre Hesaplama • 96\obj\Debug\Süre Hesaplama • 96.pdb
